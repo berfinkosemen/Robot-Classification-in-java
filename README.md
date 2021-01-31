@@ -2,10 +2,10 @@
 
 Robot Projesi
 
-Fatma Değirmenci  -	170201008
-Berfin Kösemen	  -	170201058
+Berfin Kösemen	  
+Fatma Değirmenci  
 
-Bu readme.txt dosyası, Robot Projesi projesine aittir.
+Bu README.md dosyası, Robot Projesi projesine aittir.
 Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 
