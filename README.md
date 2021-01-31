@@ -11,8 +11,8 @@ Bu paket, kaynak kodu ile aynı dizin içerisinde bulunacaktır.
 
 1-PAKETİN İÇERİĞİ:
 -------------------
-
-readme.txt - Bu dosya.
+Projenin dosyaları.
+README.md - Bu dosya.
 -------------------
 
 
